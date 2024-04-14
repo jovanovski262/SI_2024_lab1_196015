@@ -1,0 +1,43 @@
+commit 1933d381c9710285385fcf46ad49e405c850a2cb (HEAD -> master, origin/master)
+Merge: b3d63e5 d0e2558
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 22:05:29 2024 +0200
+
+    The merging conflict has been resolved
+
+commit d0e25585b82be326c40a96a2047d40d6cc354e86 (origin/bug2, bug2)
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 21:00:08 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit b3d63e5b681abcc44091b5a66a6f37c0f947c8b9 (origin/bug1, bug1)
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 20:57:49 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 2ec82afcf5395c5da66292d01d141a6fcc4a3621
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 20:53:48 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 10b018fbcf13a55cbace61c38efc78356a953c4f
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 20:49:24 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 143e45ea3a260d895f3d28dafcfb063da928dc26
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 18:20:49 2024 +0200
+
+    Add starter code
+
+commit 6bab84f448575a21e5eada89c16f243ced5b8a88
+Author: Daniel <jovanovski262@gmail.com>
+Date:   Sun Apr 14 18:00:43 2024 +0200
+
+    Initial commit
+(END)
